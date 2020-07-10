@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/questionText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:autofillHints=""
+        android:ems="10"
+        android:text="[{“Tehran is in iran”}, {true}, {false}, {green}],[{“Iran language is english”}, {false} {true}, {red}],[{“England is in usa”}, {false}, {false}, {black}]"
+        android:gravity="center"
+        android:hint="@string/question_hint"
+        android:inputType="textMultiLine" />
+
+    <Button
+        android:id="@+id/startButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:text="@string/start_button" />
+</LinearLayout>

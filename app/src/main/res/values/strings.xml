@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_false">نادرست</string>
+    <string name="score_bar">Score</string>
+    <string name="reset_button_description">Reset</string>
+    <string name="next_button_description">Next Question</string>
+    <string name="first_button_description">Next Question</string>
+    <string name="last_button_description">Next Question</string>
+    <string name="previous_button_description">Previous Question</string>
+    <string name="setting_button_description">go to Settings</string>
+    <string name="button_true">درست</string>
+    <string name="button_previous">قبلي</string>
+    <string name="button_next">بعدي</string>
+    <string name="toast_correct">جواب شما صحيح است.</string>
+    <string name="toast_incorrect">متاسفانه جواب صحيحي نيست</string>
+
+    <string name="question_australia">استرالیا بزرگ ترین قاره جهان است.</string>
+    <string name="question_oceans">اقیانوس آرام بزرگ ترین اقیانوس جهان است.</string>
+    <string name="question_mideast">همه کشورهای خاورمیانه عرب زبان هستند.</string>
+    <string name="question_africa">مصر در قاره آفریقا قرار دارد.</string>
+    <string name="question_americas">کشور آمریکا پرجمعیت ترین کشور دنیا است.</string>
+    <string name="question_asia">قاره آسیا در نیم کره جنوبی جهان واقع شده است.</string>
+    <string name="question_hint">سوال را وارد كنيد!</string>
+    <string name="start_button">شروع تست</string>
+    <string name="cheat_button">تقلب</string>
+    <string name="make_sure">از تقلب مطمئنيد؟</string>
+    <string name="setting_text">تنظيمات</string>
+    <string name="small_radio">Small</string>
+    <string name="medium_radio">Medium</string>
+    <string name="large_radio">Large</string>
+    <string name="size_setting_radio">اندازه</string>
+    <string name="back_button_button">Back</string>
+    <string name="color_text">رنگ</string>
+    <string name="color_white">White</string>
+    <string name="color_lightRed">LightRed</string>
+    <string name="color_lightBlue">LightBlue</string>
+    <string name="color_lightGreen">LightGreen</string>
+    <string name="disable_text">فعال</string>
+    <string name="true_false_disable">درست-نادرست</string>
+    <string name="next_prev_first_last_disable">قبلي بعدي اول آخر</string>
+
+
+</resources>
